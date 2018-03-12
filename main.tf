@@ -22,7 +22,7 @@ resource "aws_iam_user_policy" "iam-user" {
 
 output "name" {
   sensitive = true
-  value     = "${aws_iam_access_key.iam-user.name}"
+  value     = "${aws_iam_access_key.iam-user.user}"
 }
 
 output "id" {
