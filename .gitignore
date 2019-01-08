@@ -1,4 +1,1 @@
-bin
-downloads/
-.terraform
-*tfstate*
+*.swp
