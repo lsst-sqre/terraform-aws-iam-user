@@ -1,7 +1,7 @@
 terraform `aws_iam_user` module
 ===
 
-[![Build Status](https://travis-ci.org/lsst-sqre/tf_aws_iam_user.png)](https://travis-ci.org/lsst-sqre/tf_aws_iam_user)
+[![Build Status](https://travis-ci.org/lsst-sqre/terraform-aws-iam-user.png)](https://travis-ci.org/lsst-sqre/terraform-aws-iam-user)
 
 Usage
 ---
